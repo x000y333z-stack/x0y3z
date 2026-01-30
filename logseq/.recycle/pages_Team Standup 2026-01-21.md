@@ -1,0 +1,4 @@
+- Backend: API authentication refactor completed
+- Frontend: Dashboard layout improvements in progress
+- DevOps: CI pipeline stability issues investigated
+- #sprint-review
