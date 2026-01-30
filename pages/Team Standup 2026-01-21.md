@@ -1,0 +1,4 @@
+- Backend
+- Frontend
+- DevOps
+- #sprint-review
